@@ -6,9 +6,9 @@ color:
   saturation: 0.7565835174173117
   rhythmicContrast: 0.19303730269894004
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
 name: "Vanessa's working title site"
