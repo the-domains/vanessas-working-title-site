@@ -1,0 +1,14 @@
+layout_spectrum: 0.6351227152626961
+typography_spectrum: 0.23049627523869276
+color:
+  brandStrength: 0.801412747008726
+  lightness: 0.4291023057885468
+  saturation: 0.7565835174173117
+  rhythmicContrast: 0.19303730269894004
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: "Vanessa's working title site"
